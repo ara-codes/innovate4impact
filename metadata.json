@@ -1,0 +1,6 @@
+{
+  "name": "Medica Saathi",
+  "description": "AI-powered integrated healthcare platform and circular medical equipment marketplace for buying, selling, renting, and donating verified medical equipment, booking doctors, medicines, and lab tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
